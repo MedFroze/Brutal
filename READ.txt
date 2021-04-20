@@ -1,0 +1,17 @@
+Ini adalah script Spam SMS Brutal
+#################################
+apt update && apt upgrade
+pkg install python
+okg install git
+pkg install nano
+git clone https://github.com/MedFroze/Brutal.git
+cd BrutalSMS
+python Brutal.py
+#################################
+Masukan Token dengan link https://bit.ly/2Q7Vzre	
+Masukan nomor telepon
+Masukan Jumlah pesan
+Tunggu proses
+Selesai
+Ketik y+enter untuk lanjut spam ketik t+enter untuk keluar dari Tools
+
